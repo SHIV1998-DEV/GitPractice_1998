@@ -2,8 +2,6 @@ package my.app;
 
 public class Process {
 
-	 private Info ob1;
-
 
 public Process(){
 
@@ -26,6 +24,11 @@ public Process(){
 	 public String toString() {
 		return "Process [ob1=" + ob1 + "]";
 	 }
+
+
+public void m2(){
+
+}
 	 
 	 
 	
