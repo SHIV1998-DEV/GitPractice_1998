@@ -3,7 +3,7 @@ package my.app;
 public class Process {
 
 	 private Info ob1;
-private  String Username;
+
 
 public Process(){
 
